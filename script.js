@@ -64,3 +64,9 @@ for (let i = 0; i < speakers.length; i += 1) {
           </div>
       `);
 }
+
+appendFeatured.insertAdjacentHTML('beforeend', `
+  <div class="see-more-container">
+    <button class="see-more-button">MORE <img class="arrow-down" src="img/arrow_down 1.png"></button>
+  </div>
+`);
