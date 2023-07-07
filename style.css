@@ -430,7 +430,7 @@ body {
   .see-more-button {
     display: none; /* Hide the button on desktop devices */
   }
-  
+
   body {
     width: auto;
   }
@@ -652,7 +652,7 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    background-color: #3B3E45;
+    background-color: #3b3e45;
     width: 12rem;
     color: #fff !important;
   }
@@ -837,8 +837,4 @@ body {
   .non {
     display: none;
   }
-}
-
-.arrow-down {
-  margin-left: 21px;
 }
