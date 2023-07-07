@@ -48,7 +48,7 @@
 <!-- Presentation of Portfolio -->
 ## 🖥️ Portfolio Outline <a name="Portfolio-Outline"></a>
 
-- [Loom Presentation link]()
+- [Loom Presentation link](https://www.loom.com/share/267ec89392704277b505526037360c4c)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -56,7 +56,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link]()
+- [Live Demo Link](https://edgahkipkemoi.github.io/capstone/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
