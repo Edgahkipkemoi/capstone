@@ -29,7 +29,7 @@
 
 # 📖 [Creative-Scholars-Africa] <a name="about-project"></a>
 
-**[Creative-Scholars-Africa]**  Is an end of module project which is themed around the idea of a Creative Scholars African Summit. Where ideas are shared between scholars and they collaborate to bring about the better africa, an Africa that is compatible in the technology industry and one that can thrive in the 4th industrial revolution.
+**[Creative-Scholars-Africa]**  Is an end of module project which is themed around the idea of a digital tranformation African Summit.It aims at bringing together investors,partners and expert to share and learn more ob how to adapt to digital transformation.
 
 ## 🛠 Built With <a name="built-with"></a>
 - HTML
@@ -146,7 +146,7 @@ If you like this project give this repository a  star rating out of 5.
 
 I would like to thank...
 - Microverse Review Team
-- [Cindy Shin in Behance](https://www.behance.net/adagio07), the origional designer of this template.
+- [Cindy Shin in Behance](https://www.behance.net/adagio07) the origional designer of this template.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
