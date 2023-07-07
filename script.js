@@ -37,7 +37,7 @@ const speakers = [
     description: 'Benkler studies scholars-based imrovement, and published his seminal book The Wealth in Creativity in 2006.',
   },
 ];
-const appendFeatured = document.getElementById('featured-speakers');   
+const appendFeatured = document.getElementById('featured-speakers');
 const image = speakers.map((speak) => speak.image);
 const name = speakers.map((speak) => speak.name);
 const occupation = speakers.map((speak) => speak.occupation);
