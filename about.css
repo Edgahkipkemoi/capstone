@@ -4,7 +4,7 @@ body {
   font-family: "Lato", sans-serif;
   overflow-x: hidden;
 }
-                                                                                                              
+                                                                                             
 .top-menu {
   display: none;
 }
@@ -98,7 +98,7 @@ body {
 
 .nav-container .hamburger-lines {
   height: 26px;
-   width: 32px;
+  width: 32px;
   position: absolute;
   top: 17px;
   left: 20px;
@@ -198,7 +198,7 @@ body {
   font-size: 30px;
   font-weight: 500;
   text-align: center;
- }
+}
 
 .about-content .content-title {
   color: #ec5242;
@@ -222,7 +222,7 @@ body {
   margin-left: -2rem;
   text-align: center;
   margin-top: -41rem;
- }
+}
 
 .header-content {
   display: flex;
@@ -493,7 +493,7 @@ body {
     justify-content: flex-end;
     background-color: #272a31;
   }
-  
+
   .nonee {
     display: none;
   }
@@ -501,7 +501,7 @@ body {
   .none {
     display: block;
   }
-  
+
   .top-menu ul {
     display: flex;
     list-style: none;
@@ -528,14 +528,14 @@ body {
   }
 
   .navbar {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  align-items: center;
-  background-color: #fff;
-  box-shadow: 5px 10px 8px #d4d4d4;
-  background-image: none;
-}
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #fff;
+    box-shadow: 5px 10px 8px #d4d4d4;
+    background-image: none;
+  }
 
   .navbar img {
     margin-left: 1rem;
@@ -543,20 +543,20 @@ body {
   }
 
   .navbar .nav-items {
-  display: flex;
-  justify-content: space-evenly;
-  align-items: center;
-  flex-direction: row;
-  list-style: none;
-  padding: 0;
-  height: 0;
-  width: 0;
-  background-color: #fff;
-  opacity: 1;
-  transform: none;
-  margin-top: 0.9rem;
-}
-  
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: row;
+    list-style: none;
+    padding: 0;
+    height: 0;
+    width: 0;
+    background-color: #fff;
+    opacity: 1;
+    transform: none;
+    margin-top: 0.9rem;
+  }
+
   .navbar ul a {
     text-decoration: none;
     color: #5c5a5a;
@@ -597,7 +597,7 @@ body {
     gap: 0.3rem;
   }
 
-/* About Content */
+  /* About Content */
   .about-content .content-title {
     color: #ec5242;
     font-size: 40px;
@@ -614,7 +614,7 @@ body {
 
   .page-logo {
     margin-left: -40%;
-   }
+  }
 
   .page-nav {
     display: flex;
@@ -622,7 +622,7 @@ body {
     justify-content: flex-end;
     margin: -2rem 12rem 0 0;
   }
-  
+
   .home-icon {
     color: #535353;
   }
@@ -705,7 +705,7 @@ body {
     color: #5c5a5a;
   }
 
-/* \\\\\\\\About the Logo Section//////// */
+  /* \\\\\\\\About the Logo Section//////// */
   .about-the-logo {
     background-color: #fff;
   }
@@ -738,7 +738,7 @@ body {
     padding: 3rem;
   }
 
-/* \\\\\\\\Past Summits Section//////// */
+  /* \\\\\\\\Past Summits Section//////// */
   .see-past {
     display: flex;
     justify-content: center;
@@ -749,7 +749,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-   }
+  }
 
   .sp-container .hr-line {
     color: #ec5242;
@@ -784,7 +784,7 @@ body {
     transform: scale(1.16);
     margin-right: 1rem;
   }
-  
+
   .summit-year {
     color: #fff;
     font-weight: 800;
@@ -812,7 +812,7 @@ body {
     transform: scale(1.16);
     margin-left: 1rem;
   }
-  
+
   .navbar .nav-items li {
     display: flex;
     margin-bottom: 1.2rem;
@@ -856,4 +856,3 @@ body {
     display: none;
   }
 }
-  
