@@ -281,7 +281,6 @@ body {
   display: flex;
   text-align: start;
   padding: 0.2rem;
-  width: 50%;
 }
 
 .see-the-whole-program p {
@@ -406,6 +405,20 @@ body {
   margin-bottom: -3rem;
 }
 
+.see-more-button {
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 356px;
+  height: 38px;
+  margin-left: 3px;
+}
+
+.arrow-down {
+  margin-left: 21px;
+}
+
 /* From 0 to 768 */
 @media only screen and (min-width: 768px) {
   .navbar img,
@@ -414,6 +427,10 @@ body {
     display: block;
   }
 
+  .see-more-button {
+    display: none; /* Hide the button on desktop devices */
+  }
+  
   body {
     width: auto;
   }
@@ -435,7 +452,7 @@ body {
     list-style: none;
     margin: 0;
     gap: 10px;
-    padding: 10px 170px 10px 0;
+    padding: 10px 560px 10px 0;
   }
 
   .checkbox,
@@ -511,7 +528,7 @@ body {
   .header-content-container {
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    text-align: center;
     background-image: url(img/desktop-bg.png);
     background-size: cover;
     padding: 35rem 0 0;
@@ -532,7 +549,7 @@ body {
     display: flex;
     justify-content: flex-start;
     color: #ec5242;
-    margin-left: -25rem;
+    margin-left: -59rem;
     font-size: 40px;
     font-weight: 400;
   }
@@ -547,7 +564,7 @@ body {
     font-size: 60px;
     background-clip: border-box;
     -webkit-background-clip: text;
-    margin-left: 5rem;
+    margin-left: 3rem;
     align-items: start;
   }
 
@@ -575,7 +592,7 @@ body {
     font-weight: 800;
     font-size: 30px;
     padding-top: 1.5rem;
-    padding-left: 13rem;
+    padding-left: 6rem;
   }
 
   .header-content .summit-venue {
@@ -583,7 +600,7 @@ body {
     font-weight: 150;
     font-size: 20px;
     padding-top: 0.3rem;
-    margin-left: -2rem;
+    margin-left: -17rem;
   }
 
   /* Main Program Styles */
@@ -627,19 +644,17 @@ body {
     opacity: 0.7;
     background-image: url(../img/bg/crosses-bg.png);
     mix-blend-mode: multiply;
-    gap: 2rem;
+    gap: 1rem;
     height: 50%;
-    padding-bottom: 1rem;
   }
 
   .program {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    background-color: rgba(253, 246, 246, 0.1) !important;
+    background-color: #3B3E45;
     width: 12rem;
     color: #fff !important;
-    height: 25rem;
   }
 
   .program .program-title {
@@ -663,7 +678,7 @@ body {
     position: relative;
     padding-left: 1rem;
     padding-right: 1rem;
-    height: 55rem;
+    height: 50rem;
   }
 
   .fs-header {
@@ -765,6 +780,7 @@ body {
     flex-wrap: wrap;
     gap: 2rem;
     margin-left: 1rem;
+    margin-bottom: -0.9rem;
   }
 
   .partner-imgs .partner-img {
@@ -789,8 +805,11 @@ body {
   }
 
   .footer-container img {
-    margin-left: 12rem;
+    margin-left: 19rem;
     width: 17%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
   }
 
   .footer-content {
@@ -818,4 +837,8 @@ body {
   .non {
     display: none;
   }
+}
+
+.arrow-down {
+  margin-left: 21px;
 }
