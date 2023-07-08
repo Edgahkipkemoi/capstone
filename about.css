@@ -582,7 +582,7 @@ body {
     background-color: #fff;
     font-size: 16px;
     padding: 12px;
-    margin: -0.5rem 5rem 0 1rem;
+    margin: -0.5rem 15rem 0 1rem;
   }
 
   .navbar .nav-button:hover {
@@ -699,6 +699,7 @@ body {
     display: flex;
     justify-content: center;
     text-decoration: underline;
+    padding-bottom: 2rem;
   }
 
   .header-email i {
