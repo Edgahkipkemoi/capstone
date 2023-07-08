@@ -237,7 +237,6 @@ body {
   flex-direction: column;
   background-color: #272a31;
   background-image: url(img/crosses-bg.png);
-  /* mix-blend-mode: multiply; */
   height: auto;
   justify-content: space-around;
   gap: 1rem;
@@ -604,7 +603,6 @@ body {
     padding-top: 0.3rem;
     text-align: center;
     margin-left: -19rem;
-
   }
 
   /* Main Program Styles */
