@@ -452,7 +452,7 @@ body {
     list-style: none;
     margin: 0;
     gap: 10px;
-    padding: 10px 300px 10px 0;
+    padding: 10px 59px 10px 0;
   }
 
   .checkbox,
@@ -470,7 +470,7 @@ body {
   }
 
   .navbar img {
-    margin-left: -4rem;
+    margin-left: -4.4rem;
     margin-top: -0.8rem;
   }
 
@@ -516,7 +516,6 @@ body {
     background-color: #fff;
     font-size: 16px;
     padding: 12px;
-    margin: -0.5rem 15rem 0 1rem;
   }
 
   .navbar .nav-button:hover {
@@ -675,7 +674,7 @@ body {
     display: flex;
     flex-wrap: wrap;
     position: relative;
-    padding-left: 19rem;
+    padding-left: 4rem;
     padding-right: 19rem;
     height: 50rem;
   }
@@ -835,5 +834,26 @@ body {
 
   .non {
     display: none;
+  }
+}
+
+.header-content .summit-venue {
+  color: #555;
+  font-weight: 150;
+  font-size: 20px;
+  padding-top: 0.3rem;
+}
+
+@media (max-width: 768px) {
+  .header-content .summit-venue {
+    font-size: 16px;
+    padding-top: 0.2rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .header-content .summit-venue {
+    font-size: 14px;
+    padding-top: 0.1rem;
   }
 }
