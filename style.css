@@ -674,7 +674,7 @@ body {
     display: flex;
     flex-wrap: wrap;
     position: relative;
-    padding-left: 4rem;
+    padding-left: 2rem;
     padding-right: 19rem;
     height: 50rem;
   }
@@ -718,7 +718,7 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
-    margin: 0.1rem 0 0 0.5rem;
+    margin: 0.1rem 9rem 0 0.5rem;
   }
 
   .speaker .speaker-img {
