@@ -483,7 +483,7 @@ body {
   color: #272a31;
   width: 9rem;
   font-size: 14px;
-  margin-top: -2rem;
+  margin-top: 1rem;
 }
 
 /* Mobile Version */
@@ -507,7 +507,7 @@ body {
     list-style: none;
     margin: 0;
     gap: 10px;
-    padding: 10px 570px 10px 0;
+    padding: 10px 208px 10px 0;
   }
 
   .navbar img,
@@ -582,7 +582,7 @@ body {
     background-color: #fff;
     font-size: 16px;
     padding: 12px;
-    margin: -0.5rem 15rem 0 1rem;
+    margin: -0.5rem 8rem 0 1rem;
   }
 
   .navbar .nav-button:hover {
@@ -637,7 +637,7 @@ body {
     align-items: center;
     flex-direction: column;
     margin: -2rem;
-    margin-top: -40rem;
+    margin-top: -35rem;
   }
 
   .about-content h1 {
@@ -651,7 +651,7 @@ body {
     font-size: 60px;
     background-clip: border-box;
     -webkit-background-clip: text;
-    margin-top: -71rem;
+    margin-top: -10rem;
   }
 
   .about-content .hr-line {
@@ -671,7 +671,7 @@ body {
     background-color: #fff;
     width: 90%;
     padding: 2rem;
-    margin-top: -29rem;
+    margin-top: 2rem;
   }
 
   .header-content .description {
@@ -766,6 +766,7 @@ body {
     justify-content: space-between;
     flex-direction: row;
     gap: 3rem;
+    margin-bottom: 4rem;
   }
 
   .summit-images .kenya {
@@ -827,7 +828,7 @@ body {
     flex-direction: row;
     align-items: center;
     background-color: #272a31;
-    height: 20rem;
+    height: 16rem;
     gap: 3rem;
     color: #fff;
   }
@@ -835,7 +836,7 @@ body {
   .footer-container img {
     width: 27rem;
     height: 28rem;
-    margin-top: -5rem;
+    margin-top: -3rem;
   }
 
   .footer-content {
@@ -844,7 +845,7 @@ body {
     justify-content: center;
     text-align: left;
     margin-top: -1rem;
-    margin-right: 5rem;
+    margin-right: 25rem;
   }
 
   .footer-content .f-c-h {
